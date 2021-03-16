@@ -1,2 +1,0 @@
-com/prj/dkjh/ProjectSystemApplication.java
- com.prj.dkjh.ProjectSystemApplication
